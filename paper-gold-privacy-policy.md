@@ -1,0 +1,148 @@
+# Paper Gold Privacy Policy
+
+Effective date: June 24, 2026
+
+Developer contact: terry.f.wang@gmail.com
+
+## Short Version
+
+Paper Gold does not collect data from the app, does not track users, does not use ads, and does not use third-party analytics. The app stores preferences and ritual records only on your device.
+
+## 1. Scope
+
+This Privacy Policy explains how Paper Gold handles information. Paper Gold is a cultural interaction and reflection app for iOS.
+
+This policy covers the Paper Gold app and this privacy policy website. It does not cover Apple services, the App Store, iOS, iCloud, or GitHub services, which are operated under their own privacy practices.
+
+## 2. Data Collected by the App
+
+Paper Gold does not collect, transmit, sell, or share personal data from the app.
+
+The app does not require an account, login, subscription, purchase, or user-generated content submission.
+
+## 3. Data Stored Locally on Your Device
+
+Paper Gold stores app preferences and ritual records locally on your device. This may include:
+
+- sound and haptic settings;
+- accessibility preferences such as reduce motion or increased contrast;
+- burn counts, stack counts, achievements, and ritual ledger records.
+
+This local data stays on your device and is not sent to the developer or any third party by Paper Gold. You can remove local app data by deleting the app from your device. Depending on your Apple device settings, local app data may also be included in Apple-managed device or iCloud backups; those backups are controlled by Apple and your device settings.
+
+## 4. Device Permissions
+
+Paper Gold does not request camera, microphone, location, contacts, health, photo library, Bluetooth, or tracking permissions.
+
+Audio is generated and played locally by the app. The app does not use the microphone.
+
+## 5. Tracking, Ads, Analytics, and Third-Party SDKs
+
+Paper Gold does not use advertising tracking, third-party advertising SDKs, third-party analytics SDKs, or cross-app tracking.
+
+Paper Gold does not display ads and does not sell personal information.
+
+## 6. If You Contact the Developer
+
+If you contact the developer by email, your email address and the contents of your message will be used only to respond to your request, provide support, or handle privacy questions. This correspondence is not used for advertising or sold to third parties.
+
+## 7. Privacy Policy Website Hosting
+
+This privacy policy website is hosted on GitHub Pages. When a GitHub Pages site is visited, GitHub may log visitor IP addresses for security purposes. GitHub's handling of this technical data is described in GitHub's own documentation and Privacy Statement.
+
+Paper Gold does not add cookies, analytics scripts, advertising scripts, or tracking pixels to this privacy policy website.
+
+## 8. Children's Privacy
+
+Paper Gold does not knowingly collect personal data from children or adults. Because the app does not collect app data, it does not knowingly collect children's personal data.
+
+## 9. Data Retention
+
+Local app data remains on your device until you delete it through device-level app deletion or other device controls. Email correspondence may be retained as long as reasonably necessary to respond to the inquiry, maintain support records, or comply with legal obligations.
+
+## 10. Your Choices
+
+- You can use Paper Gold without creating an account.
+- You can turn sound, haptics, reduce motion, and contrast settings on or off inside the app.
+- You can delete the app to remove local app data from your device.
+- You can contact the developer at terry.f.wang@gmail.com for privacy questions.
+
+## 11. Security
+
+Paper Gold is designed to avoid collecting personal data from the app. Local records remain on the user's device. No method of electronic storage or transmission is perfect, but minimizing collection reduces privacy risk.
+
+## 12. Changes to This Policy
+
+If a future version of Paper Gold adds features that collect, transmit, or share data, this Privacy Policy and the App Store privacy information will be updated before those features are released.
+
+## 13. Contact
+
+Terry Wang
+
+terry.f.wang@gmail.com
+
+---
+
+# Paper Gold 隱私權政策
+
+生效日期：2026 年 6 月 24 日
+
+開發者聯絡方式：terry.f.wang@gmail.com
+
+## 摘要
+
+Paper Gold 不會從 app 收集資料、不追蹤使用者、不使用廣告，也不使用第三方分析工具。App 只會把偏好設定與儀式紀錄儲存在你的裝置本機。
+
+## 範圍
+
+本政策說明 Paper Gold 如何處理資訊。Paper Gold 是一款 iOS 文化互動與反思 app。本政策涵蓋 Paper Gold app 與本隱私權政策網站，不涵蓋 Apple、App Store、iOS、iCloud 或 GitHub 等第三方服務。
+
+## App 收集的資料
+
+Paper Gold 不會從 app 收集、傳送、出售或分享個人資料。App 不需要帳號、登入、訂閱、購買或上傳使用者內容。
+
+## 儲存在裝置本機的資料
+
+Paper Gold 會在你的裝置本機儲存 app 偏好設定與儀式紀錄，例如音效設定、觸覺回饋設定、輔助使用設定、燒化次數、成就與儀式紀錄。這些資料不會由 Paper Gold 傳送給開發者或第三方。你可以刪除 app 來移除本機 app 資料。依照你的 Apple 裝置設定，這些本機資料也可能被包含在 Apple 管理的裝置或 iCloud 備份中；這些備份由 Apple 與你的裝置設定控制。
+
+## 裝置權限
+
+Paper Gold 不要求相機、麥克風、定位、聯絡人、健康、照片圖庫、藍牙或追蹤權限。音效會在本機產生並播放，App 不使用麥克風。
+
+## 追蹤、廣告、分析與第三方 SDK
+
+Paper Gold 不使用廣告追蹤、第三方廣告 SDK、第三方分析 SDK 或跨 app 追蹤。Paper Gold 不顯示廣告，也不出售個人資訊。
+
+## 如果你聯絡開發者
+
+如果你透過 email 聯絡開發者，你的 email 地址與訊息內容只會用於回覆你的請求、提供支援或處理隱私問題。這些往來不會用於廣告，也不會出售給第三方。
+
+## 隱私權政策網站託管
+
+本隱私權政策網站由 GitHub Pages 託管。當你造訪 GitHub Pages 網站時，GitHub 可能會基於安全目的記錄訪客 IP 位址。GitHub 如何處理這類技術資料，請參考 GitHub 的文件與隱私權聲明。Paper Gold 不會在本隱私權政策網站加入 cookies、分析程式、廣告程式或追蹤像素。
+
+## 兒童隱私
+
+Paper Gold 不會蓄意收集兒童或成人的個人資料。由於 app 不收集 app 資料，因此也不會蓄意收集兒童個人資料。
+
+## 資料保留
+
+本機 app 資料會留在你的裝置上，直到你透過刪除 app 或其他裝置控制方式移除。Email 往來可能會在合理必要期間內保留，以回覆問題、維持支援紀錄或遵守法律義務。
+
+## 你的選擇
+
+你可以不建立帳號使用 Paper Gold。你可以在 app 內開關音效、觸覺回饋、減少動畫與提高對比設定。你也可以刪除 app，以從裝置移除本機 app 資料。若有隱私問題，可以聯絡 terry.f.wang@gmail.com。
+
+## 資安
+
+Paper Gold 的設計原則是避免從 app 收集個人資料。本機紀錄留在使用者裝置上。雖然任何電子儲存或傳輸方式都不可能完全零風險，但減少資料收集能降低隱私風險。
+
+## 政策更新
+
+如果未來版本加入會收集、傳送或分享資料的功能，本隱私權政策與 App Store 隱私資訊會在功能上線前更新。
+
+## 聯絡方式
+
+Terry Wang
+
+terry.f.wang@gmail.com
