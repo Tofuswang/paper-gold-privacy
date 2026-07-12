@@ -1,74 +1,88 @@
 Paper Gold Privacy Policy
 
-Effective date: June 24, 2026
+Effective date: July 13, 2026
 
 Developer contact: terry.f.wang@gmail.com
 
 Short Version
 
-Paper Gold does not collect data from the app, does not track users, does not use ads, and does not use third-party analytics. The app stores preferences and ritual records only on your device.
+Paper Gold does not require an app account, show ads, track users across apps or websites, or use general-purpose third-party analytics. App preferences and unfinished ritual progress stay on the device. When iCloud is available for Paper Gold, completed ritual records and achievement unlocks are stored in the user's private iCloud database and synchronized across their devices. Apple and RevenueCat process purchase information so the app can validate and restore the Paper Bundle purchase. Ritual records are not sent to RevenueCat and are not visible to the developer through CloudKit.
 
 1. Scope
 
-This Privacy Policy explains how Paper Gold handles information. Paper Gold is a cultural interaction and reflection app for iOS.
+This Privacy Policy explains how Paper Gold handles information. Paper Gold is a cultural interaction and reflection app for iOS. This policy covers the Paper Gold app and this privacy policy website. Apple, iCloud, the App Store, RevenueCat, and GitHub operate under their own privacy practices.
 
-This policy covers the Paper Gold app and this privacy policy website. It does not cover Apple services, the App Store, iOS, iCloud, or GitHub services, which are operated under their own privacy practices.
+2. Information Handled by the App
 
-2. Data Collected by the App
-
-Paper Gold does not collect, transmit, sell, or share personal data from the app.
-
-The app does not require an account, login, subscription, purchase, or user-generated content submission.
+Paper Gold does not require you to create an app account or provide your name, email address, phone number, contacts, location, or advertising identifier. The app handles only the information needed for its features: local preferences and unfinished progress, completed ritual records and achievements, and purchase and entitlement information.
 
 3. Data Stored Locally on Your Device
 
-Paper Gold stores app preferences and ritual records locally on your device. This may include sound and haptic settings, accessibility preferences, burn counts, stack counts, achievements, and ritual ledger records.
+Paper Gold stores preferences and unfinished ritual state locally on your device. This may include sound and haptic settings; accessibility preferences; language, selected paper, offering quantity, and selected intention settings; daily and lifetime counters used by the interface; and progress for an offering that has not yet been completed.
 
-This local data stays on your device and is not sent to the developer or any third party by Paper Gold. You can remove local app data by deleting the app from your device. Depending on your Apple device settings, local app data may also be included in Apple-managed device or iCloud backups; those backups are controlled by Apple and your device settings.
+This local data is not sent to the developer or RevenueCat. Deleting the app removes its local copy from that device. Depending on your Apple device settings, local app data may also be included in Apple-managed device or iCloud backups.
 
-4. Device Permissions
+4. iCloud Sync for Ritual Records and Achievements
 
-Paper Gold does not request camera, microphone, location, contacts, health, photo library, Bluetooth, or tracking permissions.
+When the device is signed in to iCloud and iCloud access is enabled for Paper Gold, the app uses Apple's CloudKit service to store completed ritual records and achievement unlocks in the user's private iCloud database. This allows the information to remain available offline and synchronize across devices using the same Apple Account.
 
-Audio is generated and played locally by the app. The app does not use the microphone.
+A completed ritual record may include a record identifier, date and time, burn and stack counts, paper type, offering destination, selected intention, optional custom intention text entered by the user, and values used to display the ritual ledger. Achievement records include the achievement type and unlock date.
 
-5. Tracking, Ads, Analytics, and Third-Party SDKs
+CloudKit private database content is accessible to the user through the app and, by default, only through the user's Apple Account. The developer cannot view the contents of a user's private CloudKit database in the CloudKit developer portal. Apple processes and stores this data as the iCloud service provider, and it counts toward the user's iCloud storage quota.
 
-Paper Gold does not use advertising tracking, third-party advertising SDKs, third-party analytics SDKs, or cross-app tracking.
+If iCloud is unavailable or disabled for Paper Gold, the app continues to store and use its local copy, but changes will not synchronize across devices until iCloud becomes available again. You can control which apps use iCloud in Apple Account > iCloud settings.
 
-Paper Gold does not display ads and does not sell personal information.
+5. Purchases, Apple, and RevenueCat
 
-6. If You Contact the Developer
+Paper Gold offers an optional one-time Paper Bundle in-app purchase. Apple processes the payment. Paper Gold does not receive payment card or bank account details.
 
-If you contact the developer by email, your email address and the contents of your message will be used only to respond to your request, provide support, or handle privacy questions. This correspondence is not used for advertising or sold to third parties.
+The app uses the RevenueCat SDK to validate the purchase, determine whether the entitlement is active, and support restoring purchases. RevenueCat receives purchase history and entitlement information from Apple together with a randomly generated anonymous RevenueCat App User ID. RevenueCat may also process limited transaction context such as product identifiers, store, locale, and currency.
 
-7. Privacy Policy Website Hosting
+This purchase information is used for app functionality, receipt validation, fraud prevention, customer history, and purchase analytics. Paper Gold does not provide RevenueCat with ritual records, custom intention text, contact information, or an advertising identifier. The purchase information is not used by Paper Gold for cross-app advertising tracking.
 
-This privacy policy website is hosted on GitHub Pages. When a GitHub Pages site is visited, GitHub may log visitor IP addresses for security purposes. GitHub's handling of this technical data is described in GitHub's own documentation and Privacy Statement.
+For more information, see Apple's Privacy Policy at https://www.apple.com/legal/privacy/ and RevenueCat's Privacy Policy at https://www.revenuecat.com/privacy/.
 
-Paper Gold does not add cookies, analytics scripts, advertising scripts, or tracking pixels to this privacy policy website.
+6. Device Permissions
 
-8. Children's Privacy
+Paper Gold does not request camera, microphone, location, contacts, health, photo library, Bluetooth, or tracking permissions. Audio is generated and played locally by the app. The app does not use the microphone.
 
-Paper Gold does not knowingly collect personal data from children or adults. Because the app does not collect app data, it does not knowingly collect children's personal data.
+7. Tracking, Ads, and Analytics
 
-9. Data Retention
+Paper Gold does not display ads, use advertising SDKs, request App Tracking Transparency permission, or track activity across other companies' apps or websites. Paper Gold does not include a general-purpose third-party analytics SDK. RevenueCat processes purchase history for entitlement functionality and purchase analytics as described above. Ritual activity is not sent to RevenueCat for analytics. Paper Gold does not sell personal information.
 
-Local app data remains on your device until you delete it through device-level app deletion or other device controls. Email correspondence may be retained as long as reasonably necessary to respond to the inquiry, maintain support records, or comply with legal obligations.
+8. If You Contact the Developer
 
-10. Your Choices
+If you contact the developer by email, your email address and message contents are used only to respond to your request, provide support, or handle privacy questions. This correspondence is not used for advertising or sold to third parties.
 
-You can use Paper Gold without creating an account. You can turn sound, haptics, reduce motion, and contrast settings on or off inside the app. You can delete the app to remove local app data from your device. You can contact the developer at terry.f.wang@gmail.com for privacy questions.
+9. Privacy Policy Website Hosting
 
-11. Security
+This privacy policy website is hosted on GitHub Pages. When a GitHub Pages site is visited, GitHub may log visitor IP addresses for security purposes. GitHub's handling of this technical data is described in GitHub's documentation and Privacy Statement. Paper Gold does not add cookies, analytics scripts, advertising scripts, or tracking pixels to this privacy policy website.
 
-Paper Gold is designed to avoid collecting personal data from the app. Local records remain on the user's device. No method of electronic storage or transmission is perfect, but minimizing collection reduces privacy risk.
+10. Children's Privacy
 
-12. Changes to This Policy
+Paper Gold is not designed to request personal contact information from children or adults. The app does not use advertising or cross-app tracking. Information stored locally, in the user's private iCloud database, or as part of an optional purchase is handled as described in this policy.
 
-If a future version of Paper Gold adds features that collect, transmit, or share data, this Privacy Policy and the App Store privacy information will be updated before those features are released.
+11. Data Retention and Deletion
 
-13. Contact
+Local app data remains on a device until it is removed through app deletion or other device controls.
+
+Deleting Paper Gold removes its local data from that device but may not automatically remove records already stored in iCloud. Users can disable Paper Gold's iCloud access or view and delete third-party app data through their Apple Account and iCloud storage settings. Purchase records are retained by Apple and RevenueCat under their respective policies and as needed to validate or restore purchases.
+
+Email correspondence may be retained as reasonably necessary to respond, maintain support records, or comply with legal obligations.
+
+12. Your Choices
+
+You can use Paper Gold without creating an app account. You can control app preferences inside the app. You can control Paper Gold's iCloud access and manage third-party app data in Apple Account and iCloud storage settings. You can delete the app to remove its local data from a device. You can choose whether to make the optional in-app purchase. You can contact terry.f.wang@gmail.com with privacy questions.
+
+13. Security
+
+Paper Gold minimizes the information it handles and uses Apple's system frameworks for local storage, private iCloud synchronization, and purchases. No electronic storage or transmission method is completely risk-free.
+
+14. Changes to This Policy
+
+This policy may be updated when Paper Gold's features or data practices change. The effective date at the top identifies the latest revision. Material changes will be reflected in the app or App Store information as appropriate.
+
+15. Contact
 
 Terry Wang
 
@@ -78,63 +92,89 @@ terry.f.wang@gmail.com
 
 Paper Gold 隱私權政策
 
-生效日期：2026 年 6 月 24 日
+生效日期：2026 年 7 月 13 日
 
 開發者聯絡方式：terry.f.wang@gmail.com
 
 摘要
 
-Paper Gold 不會從 app 收集資料、不追蹤使用者、不使用廣告，也不使用第三方分析工具。App 只會把偏好設定與儀式紀錄儲存在你的裝置本機。
+Paper Gold 不要求建立 app 帳號、不顯示廣告、不跨 app 或網站追蹤使用者，也不使用一般用途的第三方分析工具。偏好設定與尚未完成的儀式進度會留在裝置上；當 Paper Gold 可以使用 iCloud 時，已完成的祭祀紀錄與成就解鎖會儲存在使用者的私人 iCloud 資料庫，並在其裝置間同步。Apple 與 RevenueCat 會處理購買資訊，以驗證及回復金紙組合包的購買資格。祭祀紀錄不會傳送給 RevenueCat，開發者也無法透過 CloudKit 查看使用者私人資料庫的內容。
 
-範圍
+1. 範圍
 
-本政策說明 Paper Gold 如何處理資訊。Paper Gold 是一款 iOS 文化互動與反思 app。本政策涵蓋 Paper Gold app 與本隱私權政策網站，不涵蓋 Apple、App Store、iOS、iCloud 或 GitHub 等第三方服務。
+本政策說明 Paper Gold 如何處理資訊。Paper Gold 是一款 iOS 文化互動與反思 app。本政策涵蓋 Paper Gold app 與本隱私權政策網站。Apple、iCloud、App Store、RevenueCat 與 GitHub 各自依其隱私權規範營運。
 
-App 收集的資料
+2. App 處理的資訊
 
-Paper Gold 不會從 app 收集、傳送、出售或分享個人資料。App 不需要帳號、登入、訂閱、購買或上傳使用者內容。
+Paper Gold 不要求你建立 app 帳號，也不要求提供姓名、email、電話、聯絡人、位置或廣告識別碼。App 只處理功能所需的資訊：本機偏好設定與尚未完成的進度、已完成的祭祀紀錄與成就，以及購買和權益狀態。
 
-儲存在裝置本機的資料
+3. 儲存在裝置本機的資料
 
-Paper Gold 會在你的裝置本機儲存 app 偏好設定與儀式紀錄，例如音效設定、觸覺回饋設定、輔助使用設定、燒化次數、成就與儀式紀錄。這些資料不會由 Paper Gold 傳送給開發者或第三方。你可以刪除 app 來移除本機 app 資料。依照你的 Apple 裝置設定，這些本機資料也可能被包含在 Apple 管理的裝置或 iCloud 備份中；這些備份由 Apple 與你的裝置設定控制。
+Paper Gold 會在裝置上保存偏好設定與尚未完成的儀式狀態，包括音效、觸覺回饋、減少動畫、提高對比、語言、所選金紙、投入數量、所選祈願、介面使用的每日與累計數量，以及尚未完成的一次投入進度。
 
-裝置權限
+這些本機資料不會傳送給開發者或 RevenueCat。刪除 app 會移除該裝置上的本機副本。依照 Apple 裝置設定，本機 app 資料也可能包含在 Apple 管理的裝置或 iCloud 備份中。
 
-Paper Gold 不要求相機、麥克風、定位、聯絡人、健康、照片圖庫、藍牙或追蹤權限。音效會在本機產生並播放，App 不使用麥克風。
+4. 祭祀紀錄與成就的 iCloud 同步
 
-追蹤、廣告、分析與第三方 SDK
+當裝置已登入 iCloud，且 Paper Gold 的 iCloud 使用權限已開啟時，app 會使用 Apple CloudKit，將已完成的祭祀紀錄與成就解鎖儲存在使用者的私人 iCloud 資料庫。資料可以離線使用，並在登入相同 Apple Account 的裝置間同步。
 
-Paper Gold 不使用廣告追蹤、第三方廣告 SDK、第三方分析 SDK 或跨 app 追蹤。Paper Gold 不顯示廣告，也不出售個人資訊。
+一筆已完成的祭祀紀錄可能包含紀錄識別碼、日期與時間、燒化及疊數、金紙種類、祭祀對象、所選祈願、使用者輸入的自訂祈願文字，以及顯示祭祀帳簿所需的數值。成就紀錄包含成就類型與解鎖日期。
 
-如果你聯絡開發者
+CloudKit 私人資料庫的內容可由使用者透過 app 存取，預設只會透過使用者的 Apple Account 存取。開發者無法在 CloudKit 開發者後台查看個別使用者私人資料庫的內容。Apple 作為 iCloud 服務提供者處理與儲存這些資料，資料會計入使用者的 iCloud 儲存空間。
 
-如果你透過 email 聯絡開發者，你的 email 地址與訊息內容只會用於回覆你的請求、提供支援或處理隱私問題。這些往來不會用於廣告，也不會出售給第三方。
+如果 iCloud 無法使用，或使用者關閉 Paper Gold 的 iCloud 權限，app 仍可使用本機副本，但在 iCloud 再次可用前不會跨裝置同步。你可以在 Apple Account 的 iCloud 設定中控制哪些 app 使用 iCloud。
 
-隱私權政策網站託管
+5. 購買、Apple 與 RevenueCat
 
-本隱私權政策網站由 GitHub Pages 託管。當你造訪 GitHub Pages 網站時，GitHub 可能會基於安全目的記錄訪客 IP 位址。GitHub 如何處理這類技術資料，請參考 GitHub 的文件與隱私權聲明。Paper Gold 不會在本隱私權政策網站加入 cookies、分析程式、廣告程式或追蹤像素。
+Paper Gold 提供可選購的一次性「金紙組合包」app 內購買。付款由 Apple 處理，Paper Gold 不會收到信用卡或銀行帳戶資料。
 
-兒童隱私
+App 使用 RevenueCat SDK 驗證購買、判斷權益是否有效，並支援回復購買。RevenueCat 會取得 Apple 提供的購買紀錄與權益資訊，以及隨機產生的匿名 RevenueCat App User ID；也可能處理商品識別碼、商店、語系與幣別等有限的交易情境資訊。
 
-Paper Gold 不會蓄意收集兒童或成人的個人資料。由於 app 不收集 app 資料，因此也不會蓄意收集兒童個人資料。
+這些購買資訊用於 app 功能、收據驗證、防止詐騙、顧客歷程與購買分析。Paper Gold 不會向 RevenueCat 提供祭祀紀錄、自訂祈願文字、聯絡資訊或廣告識別碼，也不會將購買資訊用於跨 app 廣告追蹤。
 
-資料保留
+詳情請參閱 Apple 隱私權政策 https://www.apple.com/tw/legal/privacy/ 與 RevenueCat 隱私權政策 https://www.revenuecat.com/privacy/。
 
-本機 app 資料會留在你的裝置上，直到你透過刪除 app 或其他裝置控制方式移除。Email 往來可能會在合理必要期間內保留，以回覆問題、維持支援紀錄或遵守法律義務。
+6. 裝置權限
 
-你的選擇
+Paper Gold 不要求相機、麥克風、定位、聯絡人、健康、照片圖庫、藍牙或追蹤權限。音效會在本機產生並播放，app 不使用麥克風。
 
-你可以不建立帳號使用 Paper Gold。你可以在 app 內開關音效、觸覺回饋、減少動畫與提高對比設定。你也可以刪除 app，以從裝置移除本機 app 資料。若有隱私問題，可以聯絡 terry.f.wang@gmail.com。
+7. 追蹤、廣告與分析
 
-資安
+Paper Gold 不顯示廣告、不使用廣告 SDK、不要求 App Tracking Transparency 權限，也不追蹤使用者在其他公司的 app 或網站中的活動。Paper Gold 不包含一般用途的第三方分析 SDK。RevenueCat 會依前述說明，為權益功能與購買分析處理購買紀錄；祭祀活動不會傳送給 RevenueCat 進行分析。Paper Gold 不出售個人資訊。
 
-Paper Gold 的設計原則是避免從 app 收集個人資料。本機紀錄留在使用者裝置上。雖然任何電子儲存或傳輸方式都不可能完全零風險，但減少資料收集能降低隱私風險。
+8. 如果你聯絡開發者
 
-政策更新
+如果你透過 email 聯絡開發者，你的 email 地址與訊息內容只會用於回覆請求、提供支援或處理隱私問題，不會用於廣告或出售給第三方。
 
-如果未來版本加入會收集、傳送或分享資料的功能，本隱私權政策與 App Store 隱私資訊會在功能上線前更新。
+9. 隱私權政策網站託管
 
-聯絡方式
+本隱私權政策網站由 GitHub Pages 託管。造訪 GitHub Pages 網站時，GitHub 可能基於安全目的記錄訪客 IP 位址。GitHub 如何處理這類技術資料，請參閱 GitHub 的文件與隱私權聲明。Paper Gold 不會在本網站加入 cookies、分析程式、廣告程式或追蹤像素。
+
+10. 兒童隱私
+
+Paper Gold 不會要求兒童或成人提供個人聯絡資訊，也不使用廣告或跨 app 追蹤。本機資料、使用者私人 iCloud 資料庫中的資訊，以及可選購買所產生的資訊，均依本政策所述方式處理。
+
+11. 資料保留與刪除
+
+本機 app 資料會留在裝置上，直到透過刪除 app 或其他裝置控制方式移除。
+
+刪除 Paper Gold 會移除該裝置上的本機資料，但不一定會自動刪除已儲存在 iCloud 的紀錄。使用者可以在 Apple Account 與 iCloud 儲存空間設定中，關閉 Paper Gold 的 iCloud 權限，或查看及刪除第三方 app 的 iCloud 資料。Apple 與 RevenueCat 會依各自的政策，以及驗證或回復購買所需期間保留購買紀錄。
+
+Email 往來可能會在回覆問題、維持支援紀錄或遵守法律義務所需的合理期間內保留。
+
+12. 你的選擇
+
+你可以不建立 app 帳號使用 Paper Gold。你可以在 app 內控制各項偏好，在 Apple Account 與 iCloud 儲存空間設定中控制 Paper Gold 的 iCloud 權限及管理第三方 app 資料。你可以刪除 app，以移除裝置上的本機資料；也可以自行選擇是否購買可選的 app 內購買項目。若有隱私問題，可以聯絡 terry.f.wang@gmail.com。
+
+13. 資安
+
+Paper Gold 盡量減少所處理的資訊，並使用 Apple 系統框架進行本機儲存、私人 iCloud 同步與購買。任何電子儲存或傳輸方式都不可能完全零風險。
+
+14. 政策更新
+
+當 Paper Gold 的功能或資料處理方式改變時，本政策可能會更新。頁面頂端的生效日期代表最新版本；重大變更會視情況反映在 app 或 App Store 資訊中。
+
+15. 聯絡方式
 
 Terry Wang
 
