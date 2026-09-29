@@ -1,12 +1,12 @@
 Paper Gold Privacy Policy
 
-Effective date: July 13, 2026
+Effective date: September 29, 2026
 
 Developer contact: terry.f.wang@gmail.com
 
 Short Version
 
-Paper Gold does not require an app account, show ads, track users across apps or websites, or use general-purpose third-party analytics. App preferences and unfinished ritual progress stay on the device. When iCloud is available for Paper Gold, completed ritual records and achievement unlocks are stored in the user's private iCloud database and synchronized across their devices. Apple and RevenueCat process purchase information so the app can validate and restore the Paper Bundle purchase. Ritual records are not sent to RevenueCat and are not visible to the developer through CloudKit.
+Paper Gold does not require an app account, show ads, track users across apps or websites, or use general-purpose third-party analytics. App preferences and unfinished ritual progress stay on the device. When iCloud is available for Paper Gold, completed ritual records and achievement unlocks are stored in the user's private iCloud database and synchronized across their devices. Apple processes the optional Paper Bundle and Benming Money purchases. RevenueCat supports the Paper Bundle; Benming Money is validated with Apple's StoreKit 2. Ritual records are not sent to RevenueCat and are not visible to the developer through CloudKit.
 
 1. Scope
 
@@ -34,9 +34,9 @@ If iCloud is unavailable or disabled for Paper Gold, the app continues to store 
 
 5. Purchases, Apple, and RevenueCat
 
-Paper Gold offers an optional one-time Paper Bundle in-app purchase. Apple processes the payment. Paper Gold does not receive payment card or bank account details.
+Paper Gold offers two separate optional one-time in-app purchases: Grandma Wang's Paper Bundle and Benming Money. Apple processes both payments. Paper Gold does not receive payment card or bank account details.
 
-The app uses the RevenueCat SDK to validate the purchase, determine whether the entitlement is active, and support restoring purchases. RevenueCat receives purchase history and entitlement information from Apple together with a randomly generated anonymous RevenueCat App User ID. RevenueCat may also process limited transaction context such as product identifiers, store, locale, and currency.
+The app uses the RevenueCat SDK to validate Grandma Wang's Paper Bundle, determine whether its entitlement is active, and support restoring that purchase. Benming Money uses Apple's StoreKit 2 directly to load the product, validate its transaction, and restore access. RevenueCat receives purchase history and entitlement information from Apple together with a randomly generated anonymous RevenueCat App User ID. RevenueCat may also process limited transaction context such as product identifiers, store, locale, and currency.
 
 This purchase information is used for app functionality, receipt validation, fraud prevention, customer history, and purchase analytics. Paper Gold does not provide RevenueCat with ritual records, custom intention text, contact information, or an advertising identifier. The purchase information is not used by Paper Gold for cross-app advertising tracking.
 
@@ -72,7 +72,7 @@ Email correspondence may be retained as reasonably necessary to respond, maintai
 
 12. Your Choices
 
-You can use Paper Gold without creating an app account. You can control app preferences inside the app. You can control Paper Gold's iCloud access and manage third-party app data in Apple Account and iCloud storage settings. You can delete the app to remove its local data from a device. You can choose whether to make the optional in-app purchase. You can contact terry.f.wang@gmail.com with privacy questions.
+You can use Paper Gold without creating an app account. You can control app preferences inside the app. You can control Paper Gold's iCloud access and manage third-party app data in Apple Account and iCloud storage settings. You can delete the app to remove its local data from a device. You can choose whether to make either optional in-app purchase. You can contact terry.f.wang@gmail.com with privacy questions.
 
 13. Security
 
@@ -92,13 +92,13 @@ terry.f.wang@gmail.com
 
 Paper Gold 隱私權政策
 
-生效日期：2026 年 7 月 13 日
+生效日期：2026 年 9 月 29 日
 
 開發者聯絡方式：terry.f.wang@gmail.com
 
 摘要
 
-Paper Gold 不要求建立 app 帳號、不顯示廣告、不跨 app 或網站追蹤使用者，也不使用一般用途的第三方分析工具。偏好設定與尚未完成的儀式進度會留在裝置上；當 Paper Gold 可以使用 iCloud 時，已完成的祭祀紀錄與成就解鎖會儲存在使用者的私人 iCloud 資料庫，並在其裝置間同步。Apple 與 RevenueCat 會處理購買資訊，以驗證及回復金紙組合包的購買資格。祭祀紀錄不會傳送給 RevenueCat，開發者也無法透過 CloudKit 查看使用者私人資料庫的內容。
+Paper Gold 不要求建立 app 帳號、不顯示廣告、不跨 app 或網站追蹤使用者，也不使用一般用途的第三方分析工具。偏好設定與尚未完成的儀式進度會留在裝置上；當 Paper Gold 可以使用 iCloud 時，已完成的祭祀紀錄與成就解鎖會儲存在使用者的私人 iCloud 資料庫，並在其裝置間同步。Apple 處理選購的阿嬤金紙包與買命錢付款；RevenueCat 支援阿嬤金紙包，買命錢則由 Apple StoreKit 2 驗證。祭祀紀錄不會傳送給 RevenueCat，開發者也無法透過 CloudKit 查看使用者私人資料庫的內容。
 
 1. 範圍
 
@@ -126,9 +126,9 @@ CloudKit 私人資料庫的內容可由使用者透過 app 存取，預設只會
 
 5. 購買、Apple 與 RevenueCat
 
-Paper Gold 提供可選購的一次性「金紙組合包」app 內購買。付款由 Apple 處理，Paper Gold 不會收到信用卡或銀行帳戶資料。
+Paper Gold 提供兩筆分開的選購型一次性 App 內購買：「王豆腐阿嬤家的金紙包」與「買命錢」。兩筆付款均由 Apple 處理，Paper Gold 不會收到信用卡或銀行帳戶資料。
 
-App 使用 RevenueCat SDK 驗證購買、判斷權益是否有效，並支援回復購買。RevenueCat 會取得 Apple 提供的購買紀錄與權益資訊，以及隨機產生的匿名 RevenueCat App User ID；也可能處理商品識別碼、商店、語系與幣別等有限的交易情境資訊。
+App 使用 RevenueCat SDK 驗證阿嬤金紙包、判斷其權益是否有效並支援恢復該筆購買；買命錢則直接使用 Apple StoreKit 2 載入商品、驗證交易並恢復使用權。RevenueCat 會取得 Apple 提供的購買紀錄與權益資訊，以及隨機產生的匿名 RevenueCat App User ID；也可能處理商品識別碼、商店、語系與幣別等有限的交易情境資訊。
 
 這些購買資訊用於 app 功能、收據驗證、防止詐騙、顧客歷程與購買分析。Paper Gold 不會向 RevenueCat 提供祭祀紀錄、自訂祈願文字、聯絡資訊或廣告識別碼，也不會將購買資訊用於跨 app 廣告追蹤。
 
